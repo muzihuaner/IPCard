@@ -18,3 +18,4 @@
 <img src="https://xxx.com/ipcard/" alt="" width="428" height="250" />
 ```
 
+**提醒：不要套CDN，可能会导致定位不正确**
